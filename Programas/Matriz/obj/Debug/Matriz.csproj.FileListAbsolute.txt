@@ -1,0 +1,7 @@
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Matriz\bin\Debug\Matriz.exe.config
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Matriz\bin\Debug\Matriz.exe
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Matriz\bin\Debug\Matriz.pdb
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Matriz\obj\Debug\Matriz.csprojAssemblyReference.cache
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Matriz\obj\Debug\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Matriz\obj\Debug\Matriz.exe
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Matriz\obj\Debug\Matriz.pdb

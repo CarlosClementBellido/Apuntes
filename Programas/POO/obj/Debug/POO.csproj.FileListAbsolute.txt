@@ -1,0 +1,7 @@
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\POO\bin\Debug\POO.exe.config
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\POO\bin\Debug\POO.exe
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\POO\bin\Debug\POO.pdb
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\POO\obj\Debug\POO.csprojAssemblyReference.cache
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\POO\obj\Debug\POO.exe
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\POO\obj\Debug\POO.pdb

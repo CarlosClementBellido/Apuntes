@@ -1,0 +1,7 @@
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Indizadores\bin\Debug\Indizadores.exe.config
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Indizadores\bin\Debug\Indizadores.exe
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Indizadores\bin\Debug\Indizadores.pdb
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Indizadores\obj\Debug\Indizadores.csprojAssemblyReference.cache
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Indizadores\obj\Debug\Indizadores.csproj.CoreCompileInputs.cache
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Indizadores\obj\Debug\Indizadores.exe
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Indizadores\obj\Debug\Indizadores.pdb

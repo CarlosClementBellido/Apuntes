@@ -1,0 +1,7 @@
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\FicherosYDirectorios\bin\Debug\Ficheros.exe.config
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\FicherosYDirectorios\bin\Debug\Ficheros.exe
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\FicherosYDirectorios\bin\Debug\Ficheros.pdb
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\FicherosYDirectorios\obj\Debug\FicherosYDirectorios.csprojAssemblyReference.cache
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\FicherosYDirectorios\obj\Debug\FicherosYDirectorios.csproj.CoreCompileInputs.cache
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\FicherosYDirectorios\obj\Debug\Ficheros.exe
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\FicherosYDirectorios\obj\Debug\Ficheros.pdb

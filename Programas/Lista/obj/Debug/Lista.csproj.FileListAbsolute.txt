@@ -1,0 +1,7 @@
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Lista\bin\Debug\Lista.exe.config
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Lista\bin\Debug\Lista.exe
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Lista\bin\Debug\Lista.pdb
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Lista\obj\Debug\Lista.csprojAssemblyReference.cache
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Lista\obj\Debug\Lista.exe
+C:\Users\boqui\OneDrive - iesdoctorbalmis.com\Documentos\Libro que se lee leyendo\Programas\Lista\obj\Debug\Lista.pdb
